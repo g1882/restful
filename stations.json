@@ -1,0 +1,25 @@
+{
+    "stations": [
+        {
+            "id": "T01_Bedrichov",
+            "x": 15.592808,
+            "y": 49.419286,
+            "measure": "air temperature",
+            "unit": "Celsius"
+        },
+        {
+            "id": "T02_Stare_Hory",
+            "x": 15.562332,
+            "y": 49.414174,
+            "measure": "air temperature",
+            "unit": "Celsius"
+        },
+        {
+            "id": "T03_Brezinovy_Sady",
+            "x": 15.60984,
+            "y": 49.40129,
+            "measure": "air temperature",
+            "unit": "Celsius"
+        }
+    ]
+}
